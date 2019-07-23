@@ -1,1 +1,1 @@
-include ':app', ':onepixactivity'
+include ':app', ':onepixactivity', ':accountsync', ':frontservice', ':stickybroadcast', ':jobservice'
